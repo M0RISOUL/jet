@@ -99,7 +99,7 @@ export default function Home() {
             I build sleek and responsive web applications.
           </p>
           <div className="flex gap-4 mt-4">
-            <a href="/file/JetBoy-Resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded">
+            <a href="/file/Jet Boy-Resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded">
               View My Resume
             </a>
             <a href="https://www.linkedin.com/in/jet-boy-abordaje-925460365/" className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded">
