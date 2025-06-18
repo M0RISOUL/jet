@@ -48,7 +48,7 @@ function Contact() {
       {/* Contact Form */}
       <div className="bg-white rounded-xl shadow-md p-8 w-full max-w-xl">
         <form
-          action="https://formspree.io/f/yourFormID"
+          action="https://formspree.io/f/mgvyzrrv"
           method="POST"
           className="flex flex-col space-y-4"
         >
