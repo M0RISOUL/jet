@@ -141,8 +141,7 @@ export default function Home() {
                 <li>🔧 Full-Stack App Developer</li>
                 <li>🗐️ API Integration and Automation</li>
                 <li>📊 Data Visualization Dashboards</li>
-                <li>🧪 Testing and Debugging</li>
-                <li>🧠 AI / Machine Learning</li>
+              <li>🧠 AI / Machine Learning</li>
               </ul>
             </div>
           </div>
